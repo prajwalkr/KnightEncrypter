@@ -1,6 +1,6 @@
 ## Knight Encrypter
 
-> **`Encrypt`** and **`Decrypt`** any text file from your Terminal
+> **`Encrypt`** and **`Decrypt`** any file<sup>[2]</sup> from your Terminal
 
 * `Fast` `2 MB/s encryption` `100 KB/s decryption`<sup>[1]</sup>
 * `Password protect files` <sup> [2] </sup> `

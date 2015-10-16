@@ -2,7 +2,7 @@
 
 > **`Encrypt`** and **`Decrypt`** any file<sup>[2]</sup> from your Terminal
 
-* `Fast` `2 MB/s encryption` `100 KB/s decryption`<sup>[1]</sup>
+* `Fast` `10 MB/s encryption` `1 MB/s decryption`<sup>[1]</sup>
 * `Password protect files` <sup> [2] </sup> `
 * `Hard to break encryption`
 

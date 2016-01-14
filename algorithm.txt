@@ -1,0 +1,10 @@
+The Knight Encrypter uses the following algorithm.
+
+Given a list of knight tour sequences in a chessboard and a text file:
+Split the file text into segments, each of length 'l', where l = len(tour_sequence)
+Rearrange the letters of each segment based on the numbers in a random sequence from the list of tours, specifically:
+	encrypted_segment[i] = input_text[sequence[i]]
+Then concatenate all the encrypted_segments and store in the output file along with the index of the random sequence in the list of tours. 
+The password to decrypt the file is also encrypted and stored in the last line. 
+
+A simple reverse process of the above results in the decrypted file. 

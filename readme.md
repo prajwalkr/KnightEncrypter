@@ -1,26 +1,20 @@
 ## Knight Encrypter
 
-> **`Encrypt`** and **`Decrypt`** any file<sup>[2]</sup> from your Terminal
+> **`Encrypt`** and **`Decrypt`** any file from the command line.
 
-* `Fast` `10 MB/s encryption` `1 MB/s decryption`<sup>[1]</sup>
-* `Password protect files` <sup> [2] </sup> `
+* `Fast` **`60 MB/s encryption`** **`45 MB/s decryption`**
+* `Password protect files`
 * `Hard to break encryption`
 
-<br/>
-
-`How to use this app? Just put this in Terminal:`
-`knight.pyc help`
+`How to use this app? Enter:`
+```sh 
+knightencrypter.py help
+```
 
 #### `TODO list`
 
 * `Works for all ASCII coded files, make it work for all file formats`
 
-* `Increase decryption speed and encrytion speed`
+* `Package the whole thing to provide easy installation`
 
-* `Create a setup.py`
-
-<br/><br/>
-`[1] To be drastically improved. Stay tuned :P`
-
-`[2] Works for ASCII files currently`
 
